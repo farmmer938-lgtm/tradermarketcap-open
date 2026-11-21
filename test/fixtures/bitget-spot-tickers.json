@@ -1,0 +1,11 @@
+{
+  "code": "00000",
+  "msg": "success",
+  "requestTime": 1795271222234,
+  "data": [
+    { "symbol": "BTCUSDT", "open": "62091.51", "high24h": "62181.81", "low24h": "55123", "lastPr": "60338.59", "quoteVolume": "857645848.153423", "baseVolume": "14685.163992", "usdtVolume": "857645848.15342275", "ts": "1795271222234", "bidPr": "60338.07", "askPr": "60338.08", "bidSz": "0.14659", "askSz": "0.367418", "openUtc": "58947.28", "changeUtc24h": "0.0236", "change24h": "-0.02823" },
+    { "symbol": "ETHUSDC", "open": "3600", "high24h": "3650", "low24h": "3480", "lastPr": "3500.15", "quoteVolume": "35001500", "baseVolume": "10000", "usdtVolume": "35001500", "ts": "1795271222234", "bidPr": "3500.1", "askPr": "3500.2", "bidSz": "2", "askSz": "3", "openUtc": "3600", "changeUtc24h": "-0.0277", "change24h": "0.0125" },
+    { "symbol": "ETHBTC", "open": "0.0361", "high24h": "0.0362", "low24h": "0.0359", "lastPr": "0.0361", "quoteVolume": "36.1", "baseVolume": "1000", "usdtVolume": "36.1", "ts": "1795271222234", "bidPr": "0.0361", "askPr": "0.0362", "bidSz": "1", "askSz": "1", "openUtc": "0.0361", "changeUtc24h": "0", "change24h": "0" },
+    { "symbol": "XYZEUR", "open": "1", "high24h": "1.1", "low24h": "0.9", "lastPr": "1.05", "quoteVolume": "105", "baseVolume": "100", "usdtVolume": "105", "ts": "1795271222234", "bidPr": "1", "askPr": "1.1", "bidSz": "1", "askSz": "1", "openUtc": "1", "changeUtc24h": "0.05", "change24h": "0.05" }
+  ]
+}
